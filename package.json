@@ -1,0 +1,13 @@
+{
+  "name": "contract-pet-v1-5-web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "契約戰寵 V1.5 規格與戰鬥視覺驗收台",
+  "scripts": {
+    "start": "vite --host 0.0.0.0",
+    "dev": "vite --host 0.0.0.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.0"
+  }
+}
